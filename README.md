@@ -1,3 +1,3 @@
 # bookbot
 
-Bookbot project to brush up on python basics.
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
